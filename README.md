@@ -24,7 +24,7 @@ This project I made completely alone, and improve my React Native skills;
 
 
 
-This app consumes a Node API, using too the latest features of ES6,ES7,ES8;
+This app consumes a Node API, which uses the latest features of ES6,ES7,ES8 and above ;
 
 
 
